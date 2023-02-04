@@ -2,8 +2,8 @@
 In this project I made a secured login system.
 
 ## Files
-[188.py](./188.py) is made first  
-[189.py](./189.py) then this is made.
+[188.py](https://github.com/Ritvik-Buxi/Secured-Login-System/blob/main/C-188.py) is made first  
+[189.py](https://github.com/Ritvik-Buxi/Secured-Login-System/blob/main/C-189.py) then this is made.
 
 ### The Files are provided in the repository
 
