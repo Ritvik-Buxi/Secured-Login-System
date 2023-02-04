@@ -4,7 +4,7 @@ In this project I made a secured login system.
 ### The Files are provided in the repository
 
 ## Proccess
-The User Opens a window
+The User Opens a window  
 ![Can't Load Image 4 U](./assets/Register_Window.png)
 
 user clicks to login
@@ -13,7 +13,7 @@ user clicks to login
 
 user enters details
 
-![Did You Have Low Internet?](./assets/Login_Window_entered)
+![Did You Have Low Internet?](./assets/Login_Window_entered.png)
 
 then is a success
 
