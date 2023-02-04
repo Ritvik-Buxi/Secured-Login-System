@@ -4,4 +4,17 @@ In this project I made a secured login system.
 ### The Files are provided in the repository
 
 ## Proccess
-![Register Window](./assets/Register_Window.png)
+The User Opens a window
+![Can't Load Image 4 U](./assets/Register_Window.png)
+
+user clicks to login
+
+![Low Internet :(](./assets/Login_Windo.png)
+
+user enters details
+
+![Did You Have Low Internet?](./assets/Login_Window_entered)
+
+then is a success
+
+![No Success For Your Internet 😜](./assets/Login_Success.png)
