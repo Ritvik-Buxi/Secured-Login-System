@@ -3,7 +3,7 @@ from tkinter import *
 from tkinter import messagebox
 from firebase import firebase
 
-firebase = firebase.FirebaseApplication("https://encryptedchat-2-default-rtdb.asia-southeast1.firebasedatabase.app/",None)
+firebase = firebase.FirebaseApplication("Your Database Link Here",None)
 
 registration_window = Tk()
 registration_window.geometry("400x400")
