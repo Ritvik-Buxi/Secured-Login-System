@@ -1,8 +1,6 @@
 # Secured-Login-System
-In this project I made a secured login system.
-<span style="color:green;font-weight:700;font-size:20px">
-    PLEASE NOTE THAT DATABASE LINK IS NOT INCLUDED!
-</span>
+In this project I made a secured login system.  
+#PLEASE NOTE THAT DATABASE LINK IS NOT INCLUDED!
 ## Files
 [188.py](https://github.com/Ritvik-Buxi/Secured-Login-System/blob/main/C-188.py) is made first  
 [189.py](https://github.com/Ritvik-Buxi/Secured-Login-System/blob/main/C-189.py) then this is made.
